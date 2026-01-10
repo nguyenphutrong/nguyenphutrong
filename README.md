@@ -13,6 +13,19 @@ I value clarity, constraints, and practical impact over complexity.
 
 ## 🧭 Selected Technical Work
 
+### AgentLens  
+![Stars](https://img.shields.io/github/stars/nguyenphutrong/agentlens?style=flat)
+
+> Give your AI assistant X-ray vision into your codebase through structured documentation.
+
+- Generates hierarchical codebase maps for AI assistants to navigate efficiently  
+- Reduces token usage by 96% compared to reading raw source code  
+- Provides symbol maps, dependency graphs, and intelligent context loading  
+
+🔗 https://github.com/nguyenphutrong/agentlens
+
+---
+
 ### Quotio  
 ![Stars](https://img.shields.io/github/stars/nguyenphutrong/quotio?style=flat)
 
